@@ -1,0 +1,15 @@
+{
+  "name": "enum-dir",
+  "version": "0.0.1",
+  "description": "Lightweigh enumerator of directories, files, file content",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "pm163",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
